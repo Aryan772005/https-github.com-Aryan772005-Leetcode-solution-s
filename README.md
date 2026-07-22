@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0015-3sum) |
 ## Trie
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
