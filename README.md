@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aryan772005/https-github.com-Aryan772005-Leetcode-solution-s/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
